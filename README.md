@@ -2,6 +2,11 @@
 
 A production-grade, pixel-perfect **1Fi EMI Marketplace & Checkout Experience** built with **Flutter 3.x / Dart 3.x**, following modern Indian fintech standards (CRED, PhonePe, Google Pay).
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Varun2045/Fi-SDE-Intern-Assignment)
+[![Download APK](https://img.shields.io/badge/Download-Release%20APK-brightgreen?logo=android)](https://github.com/Varun2045/Fi-SDE-Intern-Assignment/releases/latest)
+
+> 📲 **Direct APK Download**: You can download the latest installable release APK directly from [GitHub Releases](https://github.com/Varun2045/Fi-SDE-Intern-Assignment/releases/latest).
+
 ---
 
 ## 📱 Features & Highlights
